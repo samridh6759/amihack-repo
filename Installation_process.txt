@@ -1,0 +1,18 @@
+Installation Process :
+
+Clone the entire repo : https://github.com/samridh6759/amihack-repo.git
+
+Following Libraries needs to be installed : 
+
+1) pickle
+2) numpy
+3) tkinter
+4) Sql
+5) Sklearn
+6) pandas
+
+Python should be added in path
+
+1) command prompt : cd "path to SourceCode"
+
+2) python SourceCode.py
