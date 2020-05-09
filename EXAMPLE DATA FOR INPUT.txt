@@ -1,0 +1,11 @@
+The following data has been taken from the dataset.
+
+
+Months post treatment - 11
+Age of the patient - 71
+pericardial - 0.0
+fractional - 0.26
+Epss - 9
+LVDD - 4.6
+WALLMOTION SCORE -14
+WALLMOTION INDEX- 1
